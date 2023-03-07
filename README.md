@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [gabby bernstein](https://gabbybernstein.com/)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👯 I’m looking to collaborate on [fabricjs](https://github.com/fabricjs)
 
