@@ -24,6 +24,15 @@ Software Architect with 8+ years of experience designing and delivering enterpri
 
 ---
 
+### Open Source Contributions
+
+| Project | PR | Description |
+|---------|-----|-------------|
+| **facebook/stylex** | [#1424](https://github.com/facebook/stylex/pull/1424) | Added `propertyValidationMode` option for CSS shorthand validation |
+| **actualbudget/actual** | [#6488](https://github.com/actualbudget/actual/pull/6488) | Fixed mobile cover overspending stale closure bug |
+
+---
+
 ### Tech Stack
 
 **Architecture:** Microservices | Event-driven | Serverless | API-first
@@ -44,21 +53,20 @@ Software Architect with 8+ years of experience designing and delivering enterpri
 <p align="left">
 <a href="https://linkedin.com/in/qureshi-faizan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/5501393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~014be683fd1b0403ae" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" alt="Upwork" height="30" width="40" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizanq&show_icons=true&theme=dark&locale=en" alt="faizanq" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizanq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanq&theme=dark" alt="faizanq" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizanq&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faizanq&show_icons=true&theme=dark&locale=en&layout=compact" alt="faizanq" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faizanq&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
