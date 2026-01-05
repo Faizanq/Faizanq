@@ -26,10 +26,12 @@ Software Architect with 8+ years of experience designing and delivering enterpri
 
 ### Open Source Contributions
 
-| Project | PR | Description |
-|---------|-----|-------------|
-| **facebook/stylex** | [#1424](https://github.com/facebook/stylex/pull/1424) | Added `propertyValidationMode` option for CSS shorthand validation |
-| **actualbudget/actual** | [#6488](https://github.com/actualbudget/actual/pull/6488) | Fixed mobile cover overspending stale closure bug |
+| Project | PR | Description | Status |
+|---------|-----|-------------|--------|
+| **facebook/stylex** | [#1424](https://github.com/facebook/stylex/pull/1424) | Added `propertyValidationMode` option for CSS shorthand validation | ✅ Merged |
+| **actualbudget/actual** | [#6488](https://github.com/actualbudget/actual/pull/6488) | Fixed mobile cover overspending stale closure bug | ✅ Merged |
+| **vercel/ai** | [#11508](https://github.com/vercel/ai/pull/11508) | Fixed AWS Bedrock reasoning_effort parameter format | 🔄 Review |
+| **biomejs/biome** | [#8660](https://github.com/biomejs/biome/pull/8660) | Added `checkForEach` option to noForEach lint rule | 🔄 Review |
 
 ---
 
