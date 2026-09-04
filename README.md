@@ -15,10 +15,11 @@
 
 Software Architect with 8+ years of experience designing and delivering enterprise-grade, cloud-native systems. I specialize in building scalable solutions across **FinTech**, **Healthcare**, **IoT**, and **AI/ML** platforms.
 
-**Currently working on:**
-- AI-powered defect detection systems for manufacturing
-- Real-time IoT dashboards with Azure IoT Hub
-- Event platforms with Flutter & Firebase
+**Recent work:**
+- BLE mobile app for a US HVAC brand: 94,000+ lines of TypeScript, multi-device pairing, OTA firmware updates, 652 test cases
+- Industrial IoT platform: sensors to MQTT to NestJS to Angular, multi-tenant, 20+ report types
+- Robotics desktop control for OMRON cobots: 26,869 lines of C#, TCP/IP motion queuing, 3D pallet simulation
+- Production observability: OpenTelemetry into self-hosted SigNoz, 29 PromQL alert rules with runbooks, live and paging
 
 **Open to contract projects and technical consulting**
 
@@ -26,15 +27,18 @@ Software Architect with 8+ years of experience designing and delivering enterpri
 
 ### Open Source Contributions
 
-| Project | PR | Description | Status |
-|---------|-----|-------------|--------|
-| **facebook/stylex** | [#1424](https://github.com/facebook/stylex/pull/1424) | Added `propertyValidationMode` option for CSS shorthand validation | ✅ Merged |
-| **actualbudget/actual** | [#6488](https://github.com/actualbudget/actual/pull/6488) | Fixed mobile cover overspending stale closure bug | ✅ Merged |
-| **actualbudget/actual** | [#6497](https://github.com/actualbudget/actual/pull/6497) | Fixed date format interfering with month filter edit | ✅ Merged |
-| **vercel/ai** | [#11508](https://github.com/vercel/ai/pull/11508) | Fixed AWS Bedrock `reasoning_effort` parameter format | 🔄 Review |
-| **biomejs/biome** | [#8696](https://github.com/biomejs/biome/pull/8696) | Fixed `noUselessLoneBlockStatements` removing blocks with comments | 🔄 Review |
-| **biomejs/biome** | [#8697](https://github.com/biomejs/biome/pull/8697) | Implemented `noExcessiveLinesPerFile` for CSS/GraphQL | 🔄 Review |
-| **agent0ai/agent-zero** | [#857](https://github.com/agent0ai/agent-zero/pull/857) | Dynamic context-based output truncation | 🔄 Review |
+Eight merged pull requests into tools I use daily, across Rust and TypeScript codebases.
+
+| Project | PR | What it does |
+|---------|-----|--------------|
+| **facebook/stylex** | [#1424](https://github.com/facebook/stylex/pull/1424) | `disallowedPropertiesValidation` option for CSS shorthand validation |
+| **warpdotdev/warp** | [#9444](https://github.com/warpdotdev/warp/pull/9444) | Surface `$CDPATH` directories in `cd` argument completion |
+| **warpdotdev/warp** | [#9285](https://github.com/warpdotdev/warp/pull/9285) | Open "Default App" files in the running Warp channel |
+| **warpdotdev/warp** | [#9277](https://github.com/warpdotdev/warp/pull/9277) | Expand `~` in `warp://action/new_tab?path=` URLs |
+| **biomejs/biome** | [#8697](https://github.com/biomejs/biome/pull/8697) | `noExcessiveLinesPerFile` rule for CSS and GraphQL |
+| **biomejs/biome** | [#8696](https://github.com/biomejs/biome/pull/8696) | Stop `noUselessLoneBlockStatements` removing blocks that hold comments |
+| **actualbudget/actual** | [#6497](https://github.com/actualbudget/actual/pull/6497) | Fix date format interfering with month filter edit |
+| **actualbudget/actual** | [#6488](https://github.com/actualbudget/actual/pull/6488) | Fix stale amounts in the mobile cover-overspending modal |
 
 ---
 
@@ -46,7 +50,7 @@ Software Architect with 8+ years of experience designing and delivering enterpri
 
 **Frontend:** Vue.js | React | Angular | TypeScript | Nuxt.js
 
-**Cloud & DevOps:** AWS | Azure | GCP | Docker | Kubernetes | CI/CD
+**Cloud & DevOps:** AWS (Lambda, IoT Core, RDS, API Gateway) | Azure IoT Hub | Docker | GitHub Actions | OpenTelemetry
 
 **AI/ML & IoT:** YOLO | Computer Vision | Azure IoT Hub | Edge Computing | MQTT
 
